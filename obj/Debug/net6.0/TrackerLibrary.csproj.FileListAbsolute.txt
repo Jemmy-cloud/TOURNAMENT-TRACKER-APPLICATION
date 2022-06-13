@@ -1,0 +1,12 @@
+C:\Demos\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.deps.json
+C:\Demos\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.dll
+C:\Demos\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.pdb
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfo.cs
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.dll
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\refint\TrackerLibrary.dll
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.pdb
+C:\Demos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\ref\TrackerLibrary.dll
